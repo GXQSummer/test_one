@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
         id = findViewById(R.id.id);
         pwd = findViewById(R.id.pwd);
+        //哈哈哈哈
         login = findViewById(R.id.login);
         rmb = findViewById(R.id.is_rmb);
         pref = PreferenceManager.getDefaultSharedPreferences(this);
